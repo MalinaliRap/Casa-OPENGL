@@ -1,0 +1,4 @@
+O - Abre as portas e janelas
+C - Fecha portas e janelas
+0 - Altera cor pra Marron
+1 - Altera cor pra Azul
